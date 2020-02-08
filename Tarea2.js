@@ -1,4 +1,4 @@
-// JavaScript Document
+// Resolución de la Tarea 2
 var mes = 10;
 
 var estacion = "";
@@ -35,4 +35,4 @@ switch(mes) {
 
 document.write(estacion, "<br>")
 document.write("Mi nombre es " + nombreCompleto, "<br>")
-document.write("Mi nÃºmero de carne es " + carne)
+document.write("Mi número de carne es " + carne)
